@@ -1,6 +1,6 @@
 ### Hi there, I'm Keith [KeithButler-WIT][website] 👋 
 
-[![Website](https://img.shields.io/website?label=KeithButler-WIT.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://keithbutler)
+[![Website](https://img.shields.io/website?label=KeithButler-WIT.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://keithbutler.xyz)
 
 ## I'm a Student and Developer!!
 
@@ -43,11 +43,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/KeithButler-WIT/portfolio-sass/issues/2) in [KeithButler-WIT/portfolio-sass](https://github.com/KeithButler-WIT/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/KeithButler-WIT/portfolio-sass/issues/2) in [KeithButler-WIT/portfolio-sass](https://github.com/KeithButler-WIT/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/KeithButler-WIT/free-developer-resources/pull/11) in [KeithButler-WIT/free-developer-resources](https://github.com/KeithButler-WIT/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/KeithButler-WIT/free-developer-resources/issues/11) in [KeithButler-WIT/free-developer-resources](https://github.com/KeithButler-WIT/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/KeithButler-WIT/free-developer-resources/pull/10) in [KeithButler-WIT/free-developer-resources](https://github.com/KeithButler-WIT/free-developer-resources)
 <!--END_SECTION:activity-->
 
 </details>
