@@ -1,12 +1,11 @@
 ### Hi there, I'm [Keith Butler][website] 👋 
 
-[![Website](https://img.shields.io/website?label=KeithButler-WIT.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://keithbutler.xyz)
+[![Website](https://img.shields.io/website?label=keithbutler.xyz&style=for-the-badge&url=https%3A%2F%2Fkeithbutler.xyz)](https://keithbutler.xyz)
 
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
@@ -38,13 +37,13 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<!-- <details> -->
+<!--   <summary>:zap: Recent GitHub Activity</summary> -->
   
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- <\!--START_SECTION:activity-\-> -->
+<!-- <\!--END_SECTION:activity-\-> -->
 
-</details>
+<!-- </details> -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
